@@ -4,4 +4,4 @@ toothbrush.
 Note that this toothbrush is not safe to use for children,
 adults, or pets.
 
-Note: After furthe resting, the Pavel robit toothbrush should only be used under the supervision of a trained Pavel Corp technician. 
+Note: After further testing, the Pavel robotic toothbrush should only be used under the supervision of a trained Pavel Corp technician. 
